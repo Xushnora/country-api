@@ -91,6 +91,9 @@ ul{
 }
 
 .main-input{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     padding: 20px 32px;
     width: 480px;
     background-color: var(--primary-color);
