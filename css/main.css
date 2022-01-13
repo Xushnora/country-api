@@ -15,6 +15,9 @@
     --placeholder-color: #848484;
 }
 
+.bx{
+    color: var(--primary-color);
+}
 
 *,
 *::after,
@@ -133,6 +136,7 @@ input[type="text"]:focus {
     outline: none;
     font-size: 14px;
     line-height: 20px;
+    border-radius: 6px;
 }
 
 
